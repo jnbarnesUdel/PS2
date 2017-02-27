@@ -3,6 +3,7 @@ package pkgInteger;
 public class MyInteger 
 {
 	private int iValue;
+	//test
 
 	public MyInteger(int iValue) 
 	{

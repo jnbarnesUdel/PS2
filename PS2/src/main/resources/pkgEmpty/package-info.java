@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author Patrick
- *
- */
-package pkgEmpty;
